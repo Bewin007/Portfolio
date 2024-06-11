@@ -11,7 +11,7 @@ const Footer = () => {
       <div className='footerLinks'>
         <a href="https://github.com/bewin007" target='_blank'><FaGithub/></a>
         <a href="https://www.linkedin.com/in/bewin-felix-4153a9232/" target='_blank'><FaLinkedin/></a>
-        <a href='mailTo:bewinfelix@karunya.edu.in' target='_blank'><GrMail/></a>
+        <a href='mailTo:biwinfelix@gmail.com' target='_blank'><GrMail/></a>
         {/* <a href="https://leetcode.com/sahni1403/" target="_blank"><SiLeetcode/></a> */}
       </div>
     </footer>
